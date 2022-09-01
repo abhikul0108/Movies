@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="register"> <u> New User?</u></string>
+    <string name="alreadysigned"> <u> Existing User</u></string>
+</resources>
